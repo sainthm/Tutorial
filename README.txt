@@ -1,1 +1,1 @@
-클라우드 SA Git-Tutorial
+클라우드 SA Git-Tutorial 가이드
